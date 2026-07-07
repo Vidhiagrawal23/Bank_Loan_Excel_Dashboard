@@ -1,0 +1,7 @@
+| KPI | Formula | Description |
+|-----|---------|-------------|
+| Total Loan Applications | COUNT(id) | Total number of loan applications |
+| Total Funded Amount | SUM(loan_amount) | Total amount funded by the bank |
+| Total Amount Received | SUM(total_payment) | Total repayments received |
+| Average Interest Rate | AVERAGE(int_rate) | Average interest rate across all loans |
+| Average DTI | AVERAGE(dti) | Average Debt-to-Income Ratio |

@@ -1,0 +1,34 @@
+# Data Dictionary
+
+Project: Bank Loan Report Dashboard
+
+This document explains the meaning of every column used in the Bank Loan dataset.
+
+| Column | Description |
+|---------|-------------|
+| id | Unique identifier of each loan |
+| member_id | Unique customer identifier |
+| address_state | Borrower's state |
+| application_type | Individual or Joint application |
+| emp_length | Number of years employed |
+| emp_title | Employer name |
+| grade | Loan credit grade |
+| sub_grade | Loan sub-grade |
+| home_ownership | Borrower's home ownership status |
+| Month | Loan issue month |
+| issue_date | Loan issue date |
+| last_credit_pull_date | Date of latest credit check |
+| last_payment_date | Last payment made |
+| next_payment_date | Next scheduled payment |
+| loan_status | Current status of loan |
+| Good vs Bad Loan | Loan classification |
+| purpose | Purpose of loan |
+| term | Loan repayment term |
+| verification_status | Income verification status |
+| annual_income | Borrower's annual income |
+| dti | Debt-to-Income ratio |
+| installment | Monthly installment |
+| int_rate | Interest rate |
+| loan_amount | Loan funded amount |
+| total_acc | Total credit accounts |
+| total_payment | Total amount repaid |
